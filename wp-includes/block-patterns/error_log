@@ -1,0 +1,44 @@
+[22-Jan-2024 18:26:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[22-Jan-2024 18:26:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[22-Jan-2024 18:26:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-Jan-2024 18:26:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[04-Mar-2024 21:50:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[04-Mar-2024 21:50:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[04-Mar-2024 21:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[04-Mar-2024 21:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[04-Mar-2024 21:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[04-Mar-2024 21:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[04-Mar-2024 21:51:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

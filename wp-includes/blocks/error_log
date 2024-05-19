@@ -1,0 +1,24 @@
+[22-Jan-2024 18:27:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php on line 8
+[26-Jan-2024 16:15:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php on line 8
+[06-Feb-2024 19:59:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php on line 8
+[21-Feb-2024 21:00:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php on line 8
+[04-Mar-2024 21:50:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php on line 8
+[13-May-2024 03:22:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/blocks/index.php on line 8

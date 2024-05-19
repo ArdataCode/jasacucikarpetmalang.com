@@ -1,0 +1,100 @@
+[22-Jan-2024 18:26:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/background.php on line 111
+[22-Jan-2024 18:26:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/border.php on line 170
+[22-Jan-2024 18:26:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/dimensions.php on line 87
+[22-Jan-2024 18:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/duotone.php on line 36
+[22-Jan-2024 18:27:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/elements.php on line 231
+[22-Jan-2024 18:27:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/layout.php on line 851
+[22-Jan-2024 18:27:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/position.php on line 145
+[22-Jan-2024 18:27:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/settings.php on line 151
+[22-Jan-2024 18:27:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/shadow.php on line 76
+[22-Jan-2024 18:27:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/spacing.php on line 83
+[04-Mar-2024 21:50:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/align.php on line 59
+[04-Mar-2024 21:50:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/background.php on line 111
+[04-Mar-2024 21:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/border.php on line 170
+[04-Mar-2024 21:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/colors.php on line 138
+[04-Mar-2024 21:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/custom-classname.php on line 59
+[04-Mar-2024 21:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/dimensions.php on line 87
+[04-Mar-2024 21:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/duotone.php on line 36
+[04-Mar-2024 21:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/elements.php on line 231
+[04-Mar-2024 21:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/generated-classname.php on line 66
+[04-Mar-2024 21:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/layout.php on line 851
+[04-Mar-2024 21:50:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/position.php on line 145
+[04-Mar-2024 21:50:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/settings.php on line 151
+[04-Mar-2024 21:50:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/shadow.php on line 76
+[04-Mar-2024 21:50:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/spacing.php on line 83
+[04-Mar-2024 21:50:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-includes/block-supports/typography.php on line 646

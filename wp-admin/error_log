@@ -1,0 +1,34 @@
+[02-Mar-2024 17:03:52 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/wp-media-folder-gallery-addon/wp-media-folder-gallery-addon.php:789
+Stack trace:
+#0 /home/landingu/jasacucikarpetmalang.com/wp-includes/class-wp-hook.php(326): wpmfGalleryAddonPluginCheckForUpdates()
+#1 /home/landingu/jasacucikarpetmalang.com/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/landingu/jasacucikarpetmalang.com/wp-includes/update.php(513): apply_filters()
+#3 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/wings/info.php(312): wp_update_plugins()
+#4 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/wings/info.php(406): BVInfoCallback->refreshUpdatesInfo()
+#5 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/wings/info.php(551): BVInfoCallback->getSiteInfo()
+#6 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/handler.php(113): BVInfoCallback->process()
+#7 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/handler.php(39): BVCallbackHandler->routeRequest()
+#8 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/handler.php(30): BVCallbackHandler->execute()
+#9 /home/landingu/jasacucikarpetmalang.com/wp-includes/class-wp-hook.php(324): BVCallbackHandler->bvAdmExecuteWithUser()
+#10 /home/landingu/jasacucikarpetmalang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/jasacucikarpetmalang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/jasacucikarpetmalang.com/wp-admin/admin-ajax.php(188): do_action()
+#13 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/wp-media-folder-gallery-addon/wp-media-folder-gallery-addon.php on line 789
+[03-Mar-2024 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/wp-media-folder-addon/wp-media-folder-addon.php:315
+Stack trace:
+#0 /home/landingu/jasacucikarpetmalang.com/wp-includes/class-wp-hook.php(326): wpmfAddonPluginCheckForUpdates()
+#1 /home/landingu/jasacucikarpetmalang.com/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/landingu/jasacucikarpetmalang.com/wp-includes/update.php(513): apply_filters()
+#3 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/wings/info.php(307): wp_update_plugins()
+#4 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/wings/info.php(406): BVInfoCallback->refreshUpdatesInfo()
+#5 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/wings/info.php(551): BVInfoCallback->getSiteInfo()
+#6 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/handler.php(113): BVInfoCallback->process()
+#7 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/handler.php(39): BVCallbackHandler->routeRequest()
+#8 /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/malcare-security/callback/handler.php(30): BVCallbackHandler->execute()
+#9 /home/landingu/jasacucikarpetmalang.com/wp-includes/class-wp-hook.php(324): BVCallbackHandler->bvAdmExecuteWithUser()
+#10 /home/landingu/jasacucikarpetmalang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/jasacucikarpetmalang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/jasacucikarpetmalang.com/wp-admin/admin-ajax.php(188): do_action()
+#13 {main}
+  thrown in /home/landingu/jasacucikarpetmalang.com/wp-content/plugins/wp-media-folder-addon/wp-media-folder-addon.php on line 315
